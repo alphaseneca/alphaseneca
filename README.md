@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an electronics engineer with a passion for innovation and problem-solving. With a strong educational foundation in electronics engineering and practical experience gained through different projects, I have developed a solid understanding of electronic devices, circuits, and systems. I am proficient in programming languages like C++, Dart, and MATLAB, and I have experience working with computer-aided design software such as FUSION 360 and KICAD. I am driven by a desire to contribute to cutting-edge projects and leverage my skills to create innovative solutions. I'm excited to collaborate with like-minded professionals and continue my growth as an electronics engineer.
+
 <!--
 **alphaseneca/alphaseneca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
