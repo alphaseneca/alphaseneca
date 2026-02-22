@@ -1,13 +1,4 @@
-<p>
-  <img src="https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?style=flat&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded_Systems-Firmware-2C7BE5?style=flat"/>
-  <img src="https://img.shields.io/badge/MQTT-IoT%20Protocol-660066?style=flat&logo=mqtt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Home_Lab-Networking-6C757D?style=flat&logo=cisco&logoColor=white"/>
-</p>## Hi there 👋 I'm Ukesh Aryal
+## Hi there 👋 I'm Ukesh Aryal
 Electronics Engineer building reliable hardware–software systems. I work across embedded systems, circuit design, automation, and infrastructure, designing solutions end-to-end — from firmware and PCB design to software tooling and deployments.
 
 <!-- <p align="center">
